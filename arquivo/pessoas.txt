@@ -1,0 +1,6 @@
+nome Maria idade 23
+nome Jose idade 56
+nome Ana idade 20
+nome Pedro idade 71
+nome Alice idade 15
+nome Joao idade 13
